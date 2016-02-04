@@ -7,4 +7,5 @@ package Models;
  * Created On   :   February 4, 2016
  */
 public class Address {
+    private String streetName;
 }
