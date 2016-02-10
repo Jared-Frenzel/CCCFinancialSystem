@@ -8,4 +8,5 @@ package Models;
  */
 public class Address {
     private String streetName;
+
 }
